@@ -54,7 +54,11 @@
     height: 210px;
     margin-left:63%;
     margin-top: 100px;
+    border:5px solid palevioletred;
     
+}
+.abaut{
+  background-image: url(../images/tile1.png);
 }
 .abaut-txt p{
     margin-top: 50px;
@@ -79,28 +83,53 @@
     width: 180px;
     height: 180px;
     border-radius:100px;
+    border:5px solid palevioletred;
     padding: 0;
     margin: 0;
     margin-right: 0;
+   
 }
 .img-fav div {
     width: 20%;
- 
+
 }
 .img-fav{
     margin-left: 20%;
     margin-top: 100px;
-    
-   
+
 }
 .txt-fav {
   text-align: center;
   color:palevioletred;
 }
 .con-link{
-    background-color: darkgrey;
+    background-image: url(../images/tile2.png);
     align-content: center;
+    margin-top: 100px;
+    
 }
+.con-link div {
+   width: 8%;
+    
+        
+ }
+.con-link div img{
+    
+    width: 80px;
+    height: 80px;
+    padding: 0;
+    margin-left:500px;
+    margin-top: 20px;
+         
+ }
+.con-link p{
+    margin-left:600px;
+    margin-top: 80px;
+    font-size: 20px;
+    font-family: serif;
+    color:palevioletred;
+  
+ }
 
 
 
