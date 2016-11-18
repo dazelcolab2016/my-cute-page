@@ -1,0 +1,107 @@
+/* Inserta tu CSS aqui */
+
+*{outline:1px solid rgba(225,0,0,0.3)}
+.main-nav{
+    margin: 0;
+    padding: 10px;
+    list-style:none;
+    text-align: center
+
+    
+}
+
+.main-nav li {
+    
+    display: inline-block;
+}
+
+.main-nav li a {
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
+.logo-bg{
+    background-image: url(../images/background7.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100% auto;
+    height: 500px;
+}
+.sec-centrado{ /* logo principal */
+    margin-left: 43%;
+    margin-top:5%;
+    
+}
+.txt-centrado { /* logo principal */
+    color: rgba( 225, 225, 225,1 );
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Playball', cursive;
+   
+   
+}
+.txt-centrado h1 { /* logo principal */
+    color: rgba( 225, 225, 225,1);
+    font-size: 40px;
+    text-align: center;
+    font-family:'Anton', sans-serif;;
+}
+
+.foto{
+    width: 180px;
+    height: 210px;
+    margin-left:63%;
+    margin-top: 100px;
+    
+}
+.abaut-txt p{
+    margin-top: 50px;
+    color: rgba( 225, 225,1);
+    font-size: 18px;
+    font-family: serif;
+    margin-left: 20px;
+    margin-right: 150px;
+   
+  }
+.abaut-txt h2{
+    margin-top: 100px;
+    padding: 0;
+    color:deeppink;
+    font-size: 20px;
+    font-family: serif;
+    text-align: center;
+    margin-right: 150px;
+    margin-left: 20px;
+  }
+.img-fav div img{
+    width: 180px;
+    height: 180px;
+    border-radius:100px;
+    padding: 0;
+    margin: 0;
+    margin-right: 0;
+}
+.img-fav div {
+    width: 20%;
+ 
+}
+.img-fav{
+    margin-left: 20%;
+    margin-top: 100px;
+    
+   
+}
+.txt-fav {
+  text-align: center;
+  color:palevioletred;
+}
+.con-link{
+    background-color: darkgrey;
+    align-content: center;
+}
+
+
+
+
