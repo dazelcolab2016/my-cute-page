@@ -70,16 +70,16 @@
 .abaut-txt h2{
     margin-top: 100px;
     padding: 0;
-    color:deeppink;
+    color:palevioletred;
     font-size: 20px;
     font-family: serif;
     text-align: center;
-    margin-right: 150px;
-    margin-left: 20px;
+    margin-right: 200px;
+    margin-left: 0px;
   }
 .img-fav div img{
-    width: 180px;
-    height: 180px;
+    width: 160px;
+    height: 160px;
     border-radius:100px;
     border:5px solid palevioletred;
     padding: 0;
@@ -88,7 +88,7 @@
    
 }
 .img-fav div {
-    width: 20%;
+    width: 23%;
 
 }
 .img-fav{
@@ -99,6 +99,7 @@
 .txt-fav {
   text-align: center;
   color:palevioletred;
+    margin-right: 200px;
 }
 .con-link{
     background-image: url(../images/tile2.png);
@@ -116,12 +117,12 @@
     width: 80px;
     height: 80px;
     padding: 0;
-    margin-left:500px;
+    margin-left:450px;
     margin-top: 20px;
          
  }
 .con-link p{
-    margin-left:600px;
+    margin-left:550px;
     margin-top: 80px;
     font-size: 20px;
     font-family: serif;
